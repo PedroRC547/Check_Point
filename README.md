@@ -1,2 +1,2 @@
 # CheckPoint
-CheckPoint Python Dicionário 
+CheckPoint Python
